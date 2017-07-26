@@ -2,3 +2,10 @@ platforms/
 plugins/
 *~
 node_modules/
+platforms/android/gradlew.bat
+platforms/android/build
+platforms/android/gradle
+platforms/android/libs
+platforms/android/gradlew.bat
+platforms/android/CordovaLib/build
+platforms/android/.gradle
